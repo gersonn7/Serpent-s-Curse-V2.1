@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":240.048,
+  "duration":0.0,
   "name":"snd_musica_gameplay",
   "parent":{
     "name":"Sons",

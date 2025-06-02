@@ -1,7 +1,5 @@
 //movimentacao
 
-show_debug_message("Checking instance_place..."); var _slope_inst = instance_place(x, y + 1, obj_slope); if (_slope_inst != noone) { show_debug_message("!!! INSTANCE_PLACE: Slope detected below! ID: " + string(_slope_inst)); } _slope_inst = instance_place(x + 1, y, obj_slope); if (_slope_inst != noone) { show_debug_message("!!! INSTANCE_PLACE: Slope detected right! ID: " + string(_slope_inst)); } _slope_inst = instance_place(x - 1, y, obj_slope); if (_slope_inst != noone) { show_debug_message("!!! INSTANCE_PLACE: Slope detected left! ID: " + string(_slope_inst)); }
-
 var right, left, attack, jump, dash;
 down = place_meeting(x, y + 1, obj_bloqueio);
 

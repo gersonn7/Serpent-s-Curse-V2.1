@@ -183,10 +183,7 @@
   "sdfSpread":8,
   "size":10.0,
   "styleName":"Semibold Italic",
-  "textureGroupId":{
-    "name":"Default",
-    "path":"texturegroups/Default",
-  },
+  "textureGroupId":null,
   "TTFName":"",
   "usesSDF":false,
 }

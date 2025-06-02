@@ -1,0 +1,1 @@
+audio_stop_sound(som_magma_id);

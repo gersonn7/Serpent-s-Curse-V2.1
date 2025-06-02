@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"backgrounds",
-    "path":"folders/Sprites/backgrounds.yy",
+    "name":"mapa_floresta",
+    "path":"folders/Sprites/backgrounds/mapa_floresta.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
