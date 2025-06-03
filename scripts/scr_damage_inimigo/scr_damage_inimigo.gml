@@ -9,10 +9,10 @@ function scr_damage_inimigo(_sprite, _image_index) {
 
     if (image_index >= image_number - 1) {
         if (vida_atual > 0) {
-            estado = "parado";
+            state = "parado";
         } else {
-            if (image_index >= _image_numbe) {
-                estado = "dead";
+            if (image_index >= _image_index) {
+                state = "dead";
             }
         }
     }

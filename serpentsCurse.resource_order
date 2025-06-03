@@ -1,9 +1,12 @@
 {
   "FolderOrderSettings":[
+    {"name":"zulu","order":1,"path":"folders/Objetos/inimigos/zulu.yy",},
     {"name":"mapa_castelo","order":2,"path":"folders/Sprites/backgrounds/mapa_castelo.yy",},
     {"name":"mapa_floresta","order":1,"path":"folders/Sprites/backgrounds/mapa_floresta.yy",},
+    {"name":"zulu","order":1,"path":"folders/Sprites/inimigos/zulu.yy",},
   ],
   "ResourceOrderSettings":[
+    {"name":"obj_boss_bullet","order":7,"path":"objects/obj_boss_bullet/obj_boss_bullet.yy",},
     {"name":"obj_display_controller","order":1,"path":"objects/obj_display_controller/obj_display_controller.yy",},
     {"name":"obj_lava","order":5,"path":"objects/obj_lava/obj_lava.yy",},
     {"name":"obj_portal","order":4,"path":"objects/obj_portal/obj_portal.yy",},
@@ -22,6 +25,12 @@
     {"name":"spr_bg_4","order":3,"path":"sprites/spr_bg_4/spr_bg_4.yy",},
     {"name":"spr_castelo_bg2","order":1,"path":"sprites/spr_castelo_bg2/spr_castelo_bg2.yy",},
     {"name":"spr_castelo_bg3","order":2,"path":"sprites/spr_castelo_bg3/spr_castelo_bg3.yy",},
+    {"name":"spr_inimigo_slime_hit","order":1,"path":"sprites/spr_inimigo_slime_hit/spr_inimigo_slime_hit.yy",},
+    {"name":"spr_inimigo_zulu_attack","order":3,"path":"sprites/spr_inimigo_zulu_attack/spr_inimigo_zulu_attack.yy",},
+    {"name":"spr_inimigo_zulu_bullet","order":4,"path":"sprites/spr_inimigo_zulu_bullet/spr_inimigo_zulu_bullet.yy",},
+    {"name":"spr_inimigo_zulu_damage","order":5,"path":"sprites/spr_inimigo_zulu_damage/spr_inimigo_zulu_damage.yy",},
+    {"name":"spr_inimigo_zulu_death","order":2,"path":"sprites/spr_inimigo_zulu_death/spr_inimigo_zulu_death.yy",},
+    {"name":"spr_inimigo_zulu_move","order":1,"path":"sprites/spr_inimigo_zulu_move/spr_inimigo_zulu_move.yy",},
     {"name":"spr_lava","order":1,"path":"sprites/spr_lava/spr_lava.yy",},
     {"name":"spr_portal","order":1,"path":"sprites/spr_portal/spr_portal.yy",},
   ],
